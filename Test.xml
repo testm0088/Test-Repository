@@ -7,7 +7,9 @@
 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
+<p>Now, transfer the metadata content to the folder of your locally cloned Git repository (Step 2). Configure the folder as your Salesforce IDE’s Project Workspace once you’re finished. You can accomplish this using the Git Console or the GitHub Plugin for your Salesforce IDE. It allows you to commit and push your code to the GitHub repository’s origin.
 
+I’m done now. You have successfully manually configured Salesforce GitHub Integration. These procedures can use to create other repositories. Your team can now begin making changes by having each member clone this GitHub repository to their personal computers (after setting this Repository folder as their SFDC Project Workspace).</p>
 </body>
 </html>
 
