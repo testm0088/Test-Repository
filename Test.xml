@@ -6,10 +6,7 @@
 <body>
 
 <h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<p>Now, transfer the metadata content to the folder of your locally cloned Git repository (Step 2). Configure the folder as your Salesforce IDE’s Project Workspace once you’re finished. You can accomplish this using the Git Console or the GitHub Plugin for your Salesforce IDE. It allows you to commit and push your code to the GitHub repository’s origin.
 
-Done</p>
 </body>
 </html>
 
